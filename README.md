@@ -1,6 +1,6 @@
-- Source code for the paper submitted to ICLR 2020
+#- Source code for the paper submitted to ICLR 2020
 
-- Computing environment
+#- Computing environment
 [1] ubuntu 16.04.5 LTS
 [2] python 2.7.15
 [3] cuda 9.0
